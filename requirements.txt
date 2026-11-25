@@ -1,0 +1,7 @@
+requirements to run this app (install all of em in Python):
+
+streamlit
+pandas
+numpy
+plotly>=5.24.0
+matplotlib
